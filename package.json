@@ -1,0 +1,19 @@
+{
+	"name": "has-friday-the-thirteenth",
+	"version": "1.0.0",
+	"description": "Tells you if a given month has a Friday the 13th.",
+	"main": "index.js",
+	"scripts": {
+		"test": "node test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/big7star/hasFridayTheThirteenth.git"
+	},
+	"author": "beansquared",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/big7star/hasFridayTheThirteenth/issues"
+	},
+	"homepage": "https://github.com/big7star/hasFridayTheThirteenth#readme"
+}
